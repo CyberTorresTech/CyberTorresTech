@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Public Internet Facing Device)](https://docs.google.com/document/d/18d2iviWY6G0ov1FtmmHimIwLv6HkCdKjSV4i88pnW_0/edit?usp=sharing)**
 - **[Threat Hunting Scenario (Sudden Network Slow Down)](https://docs.google.com/document/d/1ZM54WyrEWtAG56__7xGaBrlYOsvXOhl1D4bUFxbtAXg/edit?usp=sharing)**
 - **[Threat Hunting Scenario (Insider Threat)](https://docs.google.com/document/d/10TDBH4-WOjrtipJpGVoq0zPsG6tIBamfqVgbdxailq4/edit?usp=sharing)**
-- **[Threat Hunting Scenario (Unauthorized Encryption](https://docs.google.com/document/d/1j_CuO5LQF89PRG-W-ZpWl-Gqh3G0Wd1EUAun-vuIrRs/edit?usp=sharing)**
+- **[Threat Hunting Scenario (Unauthorized Encryption)](https://docs.google.com/document/d/1j_CuO5LQF89PRG-W-ZpWl-Gqh3G0Wd1EUAun-vuIrRs/edit?usp=sharing)**
 
 
 <hr/>
