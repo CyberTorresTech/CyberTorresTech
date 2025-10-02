@@ -5,11 +5,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]()**
+- **[Vulnerability Management Program Implementation](https://github.com/CyberTorresTech/Vulnerability-Management-Lab)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Restricted browser)]()**
+- **[Threat Hunting Scenario (Restricted browser)](https://github.com/CyberTorresTech/Threat-Hunt-Restricted-Browser)**
 - **[Threat Hunting Scenario (Public Internet Facing Device)](https://docs.google.com/document/d/18d2iviWY6G0ov1FtmmHimIwLv6HkCdKjSV4i88pnW_0/edit?usp=sharing)**
 - **[Threat Hunting Scenario (Sudden Network Slow Down)](https://docs.google.com/document/d/1ZM54WyrEWtAG56__7xGaBrlYOsvXOhl1D4bUFxbtAXg/edit?usp=sharing)**
 - **[Threat Hunting Scenario (Insider Threat)](https://docs.google.com/document/d/10TDBH4-WOjrtipJpGVoq0zPsG6tIBamfqVgbdxailq4/edit?usp=sharing)**
