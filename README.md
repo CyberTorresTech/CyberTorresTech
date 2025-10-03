@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/CyberTorresTech/Vulnerability-Management-Lab)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/CyberTorresTech/Remediation-Automated)**
 
 ## 🚨 Threat Hunting and Security Operations
 - **[Threat Hunting Scenario (Restricted browser)](https://github.com/CyberTorresTech/Threat-Hunt-Restricted-Browser)**
